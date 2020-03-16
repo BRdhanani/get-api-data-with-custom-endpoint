@@ -1,0 +1,23 @@
+{
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "root/get-userdata",
+        "version": "1.0.0",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/BRdhanani/get-userdata/archive/master.zip"
+        },
+        "require" : {
+          "composer/installers": "v1.0.6"
+        }
+      }
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "contentlead/contentlead-wp-plugin": "1.0.0"
+  }
+}
