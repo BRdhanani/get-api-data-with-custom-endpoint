@@ -9,9 +9,6 @@
         "dist": {
           "type": "zip",
           "url": "https://github.com/BRdhanani/get-userdata/archive/master.zip"
-        },
-        "require" : {
-          "composer/installers": "v1.0.6"
         }
       }
     }
